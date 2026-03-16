@@ -63,7 +63,7 @@ Model performance was evaluated using standard classification metrics. AUROC: 0.
 # Streamlit Demo 
 A Streamlit web application was developed to make the model interactive.
 
-![alt text](http://url/to/img.png](https://github.com/timothyhaminjo/Explainable-ICD9-Depression-Detection/blob/main/Streamlit_1.png)
+![alt text](https://github.com/timothyhaminjo/Explainable-ICD9-Depression-Detection/blob/main/Streamlit_1.png) 
 
 Users can input a clinical note and receive:
 

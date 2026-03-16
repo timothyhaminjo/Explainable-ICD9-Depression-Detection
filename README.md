@@ -52,7 +52,7 @@ This allows clinicians and researchers to understand why the model made a predic
 
 ## Model Performance 
 
-Model performance was evaluated using standard classification metrics. AUROC: 0.87, F1 Score: 0.79
+Model performance was evaluated using standard classification metrics. AUROC: 0.87, Accuracy: 0.79, Precision: 0.76, Recall: 0.83, and F1 Score: 0.79
 
 # Streamlit Demo 
 A Streamlit web application was developed to make the model interactive.

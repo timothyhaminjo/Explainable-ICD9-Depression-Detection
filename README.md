@@ -6,6 +6,12 @@ Clinical coding systems such as ICD-9 are widely used for documenting diagnoses,
 
 The system fine-tunes a clinical language model on ICU discharge summaries from the MIMIC-III dataset and integrates SHAP explanations to highlight which parts of the text contributed most to each prediction.
 
+# Objectives
+- Address misclassification and undercoding of depression (ICD9-311) in hospital discharge data
+- Reduce clinician burden
+- Enable explanability with SHAP, increasing trust and interpretability in real-world use 
+- Explore potential integration with EHR systems 
+
 
 # Dataset 
 ## MIMIC-III Clinical Database

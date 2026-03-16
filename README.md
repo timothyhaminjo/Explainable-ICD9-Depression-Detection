@@ -71,7 +71,7 @@ Users can input a clinical note and receive:
 - Probability score
 - SHAP explanation highlighting influential text
 
-![alt text]([http://url/to/img.png](https://github.com/timothyhaminjo/Explainable-ICD9-Depression-Detection/blob/main/Streamlit_2.png))
+![alt text](https://github.com/timothyhaminjo/Explainable-ICD9-Depression-Detection/blob/main/Streamlit_2.png) 
 
 The limitation was the processing speed. After inputing the text, it would sometimes take minutes before the results show up. Reducing the processing speed is a future direction of research. 
 
